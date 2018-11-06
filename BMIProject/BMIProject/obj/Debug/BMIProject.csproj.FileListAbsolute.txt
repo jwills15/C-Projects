@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GITA 1\BMIProject\BMIProject\bin\Debug\BMIProject.exe.config
+C:\Users\Joshua\Documents\GITA 1\BMIProject\BMIProject\bin\Debug\BMIProject.exe
+C:\Users\Joshua\Documents\GITA 1\BMIProject\BMIProject\bin\Debug\BMIProject.pdb
+C:\Users\Joshua\Documents\GITA 1\BMIProject\BMIProject\obj\Debug\BMIProject.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GITA 1\BMIProject\BMIProject\obj\Debug\BMIProject.Form1.resources
+C:\Users\Joshua\Documents\GITA 1\BMIProject\BMIProject\obj\Debug\BMIProject.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\BMIProject\BMIProject\obj\Debug\BMIProject.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\BMIProject\BMIProject\obj\Debug\BMIProject.exe
+C:\Users\Joshua\Documents\GITA 1\BMIProject\BMIProject\obj\Debug\BMIProject.pdb
