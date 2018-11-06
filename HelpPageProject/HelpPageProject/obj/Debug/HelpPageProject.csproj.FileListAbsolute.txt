@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GITA 1\HelpPageProject\HelpPageProject\bin\Debug\HelpPageProject.exe.config
+C:\Users\Joshua\Documents\GITA 1\HelpPageProject\HelpPageProject\bin\Debug\HelpPageProject.exe
+C:\Users\Joshua\Documents\GITA 1\HelpPageProject\HelpPageProject\bin\Debug\HelpPageProject.pdb
+C:\Users\Joshua\Documents\GITA 1\HelpPageProject\HelpPageProject\obj\Debug\HelpPageProject.Form1.resources
+C:\Users\Joshua\Documents\GITA 1\HelpPageProject\HelpPageProject\obj\Debug\HelpPageProject.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\HelpPageProject\HelpPageProject\obj\Debug\HelpPageProject.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\HelpPageProject\HelpPageProject\obj\Debug\HelpPageProject.exe
+C:\Users\Joshua\Documents\GITA 1\HelpPageProject\HelpPageProject\obj\Debug\HelpPageProject.pdb
+C:\Users\Joshua\Documents\GITA 1\HelpPageProject\HelpPageProject\obj\Debug\HelpPageProject.csprojResolveAssemblyReference.cache

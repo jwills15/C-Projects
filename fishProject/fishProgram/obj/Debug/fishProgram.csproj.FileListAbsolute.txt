@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GITA 1\fishProgram\fishProgram\bin\Debug\fishProgram.exe.config
+C:\Users\Joshua\Documents\GITA 1\fishProgram\fishProgram\bin\Debug\fishProgram.exe
+C:\Users\Joshua\Documents\GITA 1\fishProgram\fishProgram\bin\Debug\fishProgram.pdb
+C:\Users\Joshua\Documents\GITA 1\fishProgram\fishProgram\obj\Debug\fishProgram.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GITA 1\fishProgram\fishProgram\obj\Debug\fishProgram.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\fishProgram\fishProgram\obj\Debug\fishProgram.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\fishProgram\fishProgram\obj\Debug\fishProgram.exe
+C:\Users\Joshua\Documents\GITA 1\fishProgram\fishProgram\obj\Debug\fishProgram.pdb
+C:\Users\Joshua\Documents\GITA 1\fishProgram\fishProgram\obj\Debug\fishProgram.frmMain.resources

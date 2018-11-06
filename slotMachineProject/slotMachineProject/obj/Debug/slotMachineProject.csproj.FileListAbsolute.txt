@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GITA 1\slotMachineProject\slotMachineProject\bin\Debug\slotMachineProject.exe.config
+C:\Users\Joshua\Documents\GITA 1\slotMachineProject\slotMachineProject\bin\Debug\slotMachineProject.exe
+C:\Users\Joshua\Documents\GITA 1\slotMachineProject\slotMachineProject\bin\Debug\slotMachineProject.pdb
+C:\Users\Joshua\Documents\GITA 1\slotMachineProject\slotMachineProject\obj\Debug\slotMachineProject.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GITA 1\slotMachineProject\slotMachineProject\obj\Debug\slotMachineProject.Form1.resources
+C:\Users\Joshua\Documents\GITA 1\slotMachineProject\slotMachineProject\obj\Debug\slotMachineProject.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\slotMachineProject\slotMachineProject\obj\Debug\slotMachineProject.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\slotMachineProject\slotMachineProject\obj\Debug\slotMachineProject.exe
+C:\Users\Joshua\Documents\GITA 1\slotMachineProject\slotMachineProject\obj\Debug\slotMachineProject.pdb

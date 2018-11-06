@@ -1,0 +1,19 @@
+C:\Users\Joshua\Documents\GITA 1\tankProject\tankProject\bin\Debug\tankProject.exe.config
+C:\Users\Joshua\Documents\GITA 1\tankProject\tankProject\bin\Debug\tankProject.exe
+C:\Users\Joshua\Documents\GITA 1\tankProject\tankProject\bin\Debug\tankProject.pdb
+C:\Users\Joshua\Documents\GITA 1\tankProject\tankProject\obj\Debug\tankProject.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GITA 1\tankProject\tankProject\obj\Debug\tankProject.Form1.resources
+C:\Users\Joshua\Documents\GITA 1\tankProject\tankProject\obj\Debug\tankProject.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\tankProject\tankProject\obj\Debug\tankProject.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\tankProject\tankProject\obj\Debug\tankProject.exe
+C:\Users\Joshua\Documents\GITA 1\tankProject\tankProject\obj\Debug\tankProject.pdb
+C:\Users\Joshua W\OneDrive - biola.edu\High School\GITA 1\tankProject\tankProject\bin\Debug\tankProject.exe.config
+C:\Users\Joshua W\OneDrive - biola.edu\High School\GITA 1\tankProject\tankProject\bin\Debug\tankProject.exe
+C:\Users\Joshua W\OneDrive - biola.edu\High School\GITA 1\tankProject\tankProject\bin\Debug\tankProject.pdb
+C:\Users\Joshua W\OneDrive - biola.edu\High School\GITA 1\tankProject\tankProject\obj\Debug\tankProject.csprojAssemblyReference.cache
+C:\Users\Joshua W\OneDrive - biola.edu\High School\GITA 1\tankProject\tankProject\obj\Debug\tankProject.Properties.Resources.resources
+C:\Users\Joshua W\OneDrive - biola.edu\High School\GITA 1\tankProject\tankProject\obj\Debug\tankProject.csproj.GenerateResource.cache
+C:\Users\Joshua W\OneDrive - biola.edu\High School\GITA 1\tankProject\tankProject\obj\Debug\tankProject.csproj.CoreCompileInputs.cache
+C:\Users\Joshua W\OneDrive - biola.edu\High School\GITA 1\tankProject\tankProject\obj\Debug\tankProject.exe
+C:\Users\Joshua W\OneDrive - biola.edu\High School\GITA 1\tankProject\tankProject\obj\Debug\tankProject.pdb
+C:\Users\Joshua W\OneDrive - biola.edu\High School\GITA 1\tankProject\tankProject\obj\Debug\tankProject.tankProject.resources

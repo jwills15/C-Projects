@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GITA 1\crapsGameProject\crapsGameProject\bin\Debug\crapsGameProject.exe.config
+C:\Users\Joshua\Documents\GITA 1\crapsGameProject\crapsGameProject\bin\Debug\crapsGameProject.exe
+C:\Users\Joshua\Documents\GITA 1\crapsGameProject\crapsGameProject\bin\Debug\crapsGameProject.pdb
+C:\Users\Joshua\Documents\GITA 1\crapsGameProject\crapsGameProject\obj\Debug\crapsGameProject.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GITA 1\crapsGameProject\crapsGameProject\obj\Debug\crapsGameProject.frmMain.resources
+C:\Users\Joshua\Documents\GITA 1\crapsGameProject\crapsGameProject\obj\Debug\crapsGameProject.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\crapsGameProject\crapsGameProject\obj\Debug\crapsGameProject.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\crapsGameProject\crapsGameProject\obj\Debug\crapsGameProject.exe
+C:\Users\Joshua\Documents\GITA 1\crapsGameProject\crapsGameProject\obj\Debug\crapsGameProject.pdb

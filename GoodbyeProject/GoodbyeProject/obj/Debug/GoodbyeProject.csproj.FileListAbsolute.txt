@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GITA 1\GoodbyeProject\GoodbyeProject\bin\Debug\GoodbyeProject.exe.config
+C:\Users\Joshua\Documents\GITA 1\GoodbyeProject\GoodbyeProject\bin\Debug\GoodbyeProject.exe
+C:\Users\Joshua\Documents\GITA 1\GoodbyeProject\GoodbyeProject\bin\Debug\GoodbyeProject.pdb
+C:\Users\Joshua\Documents\GITA 1\GoodbyeProject\GoodbyeProject\obj\Debug\GoodbyeProject.Form1.resources
+C:\Users\Joshua\Documents\GITA 1\GoodbyeProject\GoodbyeProject\obj\Debug\GoodbyeProject.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\GoodbyeProject\GoodbyeProject\obj\Debug\GoodbyeProject.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\GoodbyeProject\GoodbyeProject\obj\Debug\GoodbyeProject.exe
+C:\Users\Joshua\Documents\GITA 1\GoodbyeProject\GoodbyeProject\obj\Debug\GoodbyeProject.pdb
+C:\Users\Joshua\Documents\GITA 1\GoodbyeProject\GoodbyeProject\obj\Debug\GoodbyeProject.csprojResolveAssemblyReference.cache

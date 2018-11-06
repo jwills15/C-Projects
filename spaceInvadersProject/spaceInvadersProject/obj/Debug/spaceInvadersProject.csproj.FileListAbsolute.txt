@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GITA 1\spaceInvadersProject\spaceInvadersProject\bin\Debug\spaceInvadersProject.exe.config
+C:\Users\Joshua\Documents\GITA 1\spaceInvadersProject\spaceInvadersProject\bin\Debug\spaceInvadersProject.exe
+C:\Users\Joshua\Documents\GITA 1\spaceInvadersProject\spaceInvadersProject\bin\Debug\spaceInvadersProject.pdb
+C:\Users\Joshua\Documents\GITA 1\spaceInvadersProject\spaceInvadersProject\obj\Debug\spaceInvadersProject.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GITA 1\spaceInvadersProject\spaceInvadersProject\obj\Debug\spaceInvadersProject.Form1.resources
+C:\Users\Joshua\Documents\GITA 1\spaceInvadersProject\spaceInvadersProject\obj\Debug\spaceInvadersProject.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\spaceInvadersProject\spaceInvadersProject\obj\Debug\spaceInvadersProject.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\spaceInvadersProject\spaceInvadersProject\obj\Debug\spaceInvadersProject.exe
+C:\Users\Joshua\Documents\GITA 1\spaceInvadersProject\spaceInvadersProject\obj\Debug\spaceInvadersProject.pdb

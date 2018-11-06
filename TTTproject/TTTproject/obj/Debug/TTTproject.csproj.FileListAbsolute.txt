@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GITA 1\TTTproject\TTTproject\bin\Debug\TTTproject.exe.config
+C:\Users\Joshua\Documents\GITA 1\TTTproject\TTTproject\bin\Debug\TTTproject.exe
+C:\Users\Joshua\Documents\GITA 1\TTTproject\TTTproject\bin\Debug\TTTproject.pdb
+C:\Users\Joshua\Documents\GITA 1\TTTproject\TTTproject\obj\Debug\TTTproject.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GITA 1\TTTproject\TTTproject\obj\Debug\TTTproject.frmMain.resources
+C:\Users\Joshua\Documents\GITA 1\TTTproject\TTTproject\obj\Debug\TTTproject.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\TTTproject\TTTproject\obj\Debug\TTTproject.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\TTTproject\TTTproject\obj\Debug\TTTproject.exe
+C:\Users\Joshua\Documents\GITA 1\TTTproject\TTTproject\obj\Debug\TTTproject.pdb

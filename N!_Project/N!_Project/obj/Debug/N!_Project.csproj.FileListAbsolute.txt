@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GITA 1\N!_Project\N!_Project\bin\Debug\N!_Project.exe.config
+C:\Users\Joshua\Documents\GITA 1\N!_Project\N!_Project\obj\Debug\N!_Project.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GITA 1\N!_Project\N!_Project\obj\Debug\N__Project.frmMain.resources
+C:\Users\Joshua\Documents\GITA 1\N!_Project\N!_Project\obj\Debug\N__Project.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\N!_Project\N!_Project\obj\Debug\N!_Project.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\N!_Project\N!_Project\bin\Debug\N!_Project.exe
+C:\Users\Joshua\Documents\GITA 1\N!_Project\N!_Project\bin\Debug\N!_Project.pdb
+C:\Users\Joshua\Documents\GITA 1\N!_Project\N!_Project\obj\Debug\N!_Project.exe
+C:\Users\Joshua\Documents\GITA 1\N!_Project\N!_Project\obj\Debug\N!_Project.pdb

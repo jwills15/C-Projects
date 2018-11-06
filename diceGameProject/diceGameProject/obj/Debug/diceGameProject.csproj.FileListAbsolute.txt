@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GITA 1\diceGameProject\diceGameProject\bin\Debug\diceGameProject.exe.config
+C:\Users\Joshua\Documents\GITA 1\diceGameProject\diceGameProject\bin\Debug\diceGameProject.exe
+C:\Users\Joshua\Documents\GITA 1\diceGameProject\diceGameProject\bin\Debug\diceGameProject.pdb
+C:\Users\Joshua\Documents\GITA 1\diceGameProject\diceGameProject\obj\Debug\diceGameProject.frmMain.resources
+C:\Users\Joshua\Documents\GITA 1\diceGameProject\diceGameProject\obj\Debug\diceGameProject.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\diceGameProject\diceGameProject\obj\Debug\diceGameProject.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\diceGameProject\diceGameProject\obj\Debug\diceGameProject.exe
+C:\Users\Joshua\Documents\GITA 1\diceGameProject\diceGameProject\obj\Debug\diceGameProject.pdb
+C:\Users\Joshua\Documents\GITA 1\diceGameProject\diceGameProject\obj\Debug\diceGameProject.csprojResolveAssemblyReference.cache

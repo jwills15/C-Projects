@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GITA 1\MailLabelProject\MailLabelProject\bin\Debug\MailLabelProject.exe.config
+C:\Users\Joshua\Documents\GITA 1\MailLabelProject\MailLabelProject\bin\Debug\MailLabelProject.exe
+C:\Users\Joshua\Documents\GITA 1\MailLabelProject\MailLabelProject\bin\Debug\MailLabelProject.pdb
+C:\Users\Joshua\Documents\GITA 1\MailLabelProject\MailLabelProject\obj\Debug\MailLabelProject.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GITA 1\MailLabelProject\MailLabelProject\obj\Debug\MailLabelProject.Form1.resources
+C:\Users\Joshua\Documents\GITA 1\MailLabelProject\MailLabelProject\obj\Debug\MailLabelProject.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\MailLabelProject\MailLabelProject\obj\Debug\MailLabelProject.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\MailLabelProject\MailLabelProject\obj\Debug\MailLabelProject.exe
+C:\Users\Joshua\Documents\GITA 1\MailLabelProject\MailLabelProject\obj\Debug\MailLabelProject.pdb

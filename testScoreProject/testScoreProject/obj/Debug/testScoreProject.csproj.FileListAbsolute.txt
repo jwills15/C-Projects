@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GITA 1\testScoreProject\testScoreProject\bin\Debug\testScoreProject.exe.config
+C:\Users\Joshua\Documents\GITA 1\testScoreProject\testScoreProject\obj\Debug\testScoreProject.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GITA 1\testScoreProject\testScoreProject\obj\Debug\testScoreProject.frmMain.resources
+C:\Users\Joshua\Documents\GITA 1\testScoreProject\testScoreProject\obj\Debug\testScoreProject.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\testScoreProject\testScoreProject\obj\Debug\testScoreProject.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\testScoreProject\testScoreProject\bin\Debug\testScoreProject.exe
+C:\Users\Joshua\Documents\GITA 1\testScoreProject\testScoreProject\bin\Debug\testScoreProject.pdb
+C:\Users\Joshua\Documents\GITA 1\testScoreProject\testScoreProject\obj\Debug\testScoreProject.exe
+C:\Users\Joshua\Documents\GITA 1\testScoreProject\testScoreProject\obj\Debug\testScoreProject.pdb

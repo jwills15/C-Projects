@@ -1,0 +1,14 @@
+C:\Users\Joshua\Documents\GITA 1\galagaFinalProject\galagaFinalProject\bin\Debug\galagaFinalProject.exe.config
+C:\Users\Joshua\Documents\GITA 1\galagaFinalProject\galagaFinalProject\bin\Debug\galagaFinalProject.exe
+C:\Users\Joshua\Documents\GITA 1\galagaFinalProject\galagaFinalProject\bin\Debug\galagaFinalProject.pdb
+C:\Users\Joshua\Documents\GITA 1\galagaFinalProject\galagaFinalProject\obj\Debug\galagaFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GITA 1\galagaFinalProject\galagaFinalProject\obj\Debug\galagaFinalProject.frmMain.resources
+C:\Users\Joshua\Documents\GITA 1\galagaFinalProject\galagaFinalProject\obj\Debug\galagaFinalProject.frmGame.resources
+C:\Users\Joshua\Documents\GITA 1\galagaFinalProject\galagaFinalProject\obj\Debug\galagaFinalProject.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\galagaFinalProject\galagaFinalProject\obj\Debug\galagaFinalProject.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\galagaFinalProject\galagaFinalProject\obj\Debug\galagaFinalProject.exe
+C:\Users\Joshua\Documents\GITA 1\galagaFinalProject\galagaFinalProject\obj\Debug\galagaFinalProject.pdb
+C:\Users\Joshua\Documents\GITA 1\galagaFinalProject\galagaFinalProject\obj\Debug\galagaFinalProject.frmHelp.resources
+C:\Users\Joshua\Documents\GITA 1\galagaFinalProject\galagaFinalProject\obj\Debug\galagaFinalProject.g.resources
+C:\Users\Joshua\Documents\GITA 1\galagaFinalProject\galagaFinalProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Joshua\Documents\GITA 1\galagaFinalProject\galagaFinalProject\obj\Debug\galagaFinalProject.frmHighScore.resources

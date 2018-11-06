@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GITA 1\trapezoidProject\trapezoidProject\bin\Debug\trapezoidProject.exe.config
+C:\Users\Joshua\Documents\GITA 1\trapezoidProject\trapezoidProject\bin\Debug\trapezoidProject.exe
+C:\Users\Joshua\Documents\GITA 1\trapezoidProject\trapezoidProject\bin\Debug\trapezoidProject.pdb
+C:\Users\Joshua\Documents\GITA 1\trapezoidProject\trapezoidProject\obj\Debug\trapezoidProject.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GITA 1\trapezoidProject\trapezoidProject\obj\Debug\trapezoidProject.Form1.resources
+C:\Users\Joshua\Documents\GITA 1\trapezoidProject\trapezoidProject\obj\Debug\trapezoidProject.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\trapezoidProject\trapezoidProject\obj\Debug\trapezoidProject.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\trapezoidProject\trapezoidProject\obj\Debug\trapezoidProject.exe
+C:\Users\Joshua\Documents\GITA 1\trapezoidProject\trapezoidProject\obj\Debug\trapezoidProject.pdb

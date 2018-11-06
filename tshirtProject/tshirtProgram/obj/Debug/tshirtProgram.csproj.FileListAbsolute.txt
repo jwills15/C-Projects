@@ -1,0 +1,12 @@
+C:\Users\Joshua\Documents\GITA 1\tshirtProgram\tshirtProgram\bin\Debug\tshirtProgram.exe.config
+C:\Users\Joshua\Documents\GITA 1\tshirtProgram\tshirtProgram\obj\Debug\tshirtProgram.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GITA 1\tshirtProgram\tshirtProgram\obj\Debug\tshirtProgram.Form1.resources
+C:\Users\Joshua\Documents\GITA 1\tshirtProgram\tshirtProgram\obj\Debug\tshirtProgram.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\tshirtProgram\tshirtProgram\obj\Debug\tshirtProgram.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\GITA 1\tshirtProgram\tshirtProgram\bin\Debug\tshirtProgram.exe
+C:\Users\Joshua\Documents\GITA 1\tshirtProgram\tshirtProgram\bin\Debug\tshirtProgram.pdb
+C:\Users\Joshua\Documents\GITA 1\tshirtProgram\tshirtProgram\obj\Debug\tshirtProgram.exe
+C:\Users\Joshua\Documents\GITA 1\tshirtProgram\tshirtProgram\obj\Debug\tshirtProgram.pdb
+C:\Users\Joshua\Documents\GITA 1\tshirtProject\tshirtProgram\bin\Debug\tshirtProgram.exe.config
+C:\Users\Joshua\Documents\GITA 1\tshirtProject\tshirtProgram\obj\Debug\tshirtProgram.exe
+C:\Users\Joshua\Documents\GITA 1\tshirtProject\tshirtProgram\obj\Debug\tshirtProgram.pdb

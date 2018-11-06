@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\GITA 1\starFieldProject\starFieldProject\bin\Debug\starFieldNotes.exe.config
+C:\Users\Joshua\Documents\GITA 1\starFieldProject\starFieldProject\obj\Debug\starFieldNotes.exe
+C:\Users\Joshua\Documents\GITA 1\starFieldProject\starFieldProject\obj\Debug\starFieldNotes.pdb
+C:\Users\Joshua\Documents\GITA 1\starFieldProject\starFieldProject\bin\Debug\starFieldNotes.exe
+C:\Users\Joshua\Documents\GITA 1\starFieldProject\starFieldProject\bin\Debug\starFieldNotes.pdb
+C:\Users\Joshua\Documents\GITA 1\starFieldProject\starFieldProject\obj\Debug\starFieldProject.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GITA 1\starFieldProject\starFieldProject\obj\Debug\starFieldNotes.frmMain.resources
+C:\Users\Joshua\Documents\GITA 1\starFieldProject\starFieldProject\obj\Debug\starFieldNotes.Properties.Resources.resources
+C:\Users\Joshua\Documents\GITA 1\starFieldProject\starFieldProject\obj\Debug\starFieldProject.csproj.GenerateResource.Cache
